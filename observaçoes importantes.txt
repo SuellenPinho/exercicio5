@@ -1,6 +1,6 @@
-Sempre dar Git Init
-Fazer o git config --global user.name"Suellen.Pinho"
-Fazer o git config --global user.email"suellen.pinho@live.com
-Fazer a adiçao dos arquivos com add .
-Fazer git commit -m ""
-Ir lá no repositorio e copiar o codigo 
+Sempre dar Git Init;
+Fazer o git config --global user.name"Suellen.Pinho";
+Fazer o git config --global user.email"suellen.pinho@live.com;
+Fazer a adiçao dos arquivos com add;
+Fazer git commit -m "";
+Ir lá no repositorio e copiar o codigo.
