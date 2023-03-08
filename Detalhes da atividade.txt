@@ -1,5 +1,5 @@
-Crie um repositorio GitHub
-Faça commit de um ou mais arquivos na branch principal
-Faca uma brancha derivada da principal, chamada "development"
-Edite um ou mais dos arquivos commitados anteriormente
-Utilize a funçao de pull request no github da branch "development" para principal
+1.Crie um repositorio GitHub
+2.Faça commit de um ou mais arquivos na branch principal
+3.Faca uma brancha derivada da principal, chamada "development"
+4.Edite um ou mais dos arquivos commitados anteriormente
+5.Utilize a funçao de pull request no github da branch "development" para principal
